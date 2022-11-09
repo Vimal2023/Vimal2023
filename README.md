@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Anand</h1>
-<h3 align="center">soon be a full stack web developer by the end of JUNE_2022.</h3>
+<h3 align="center">Memer || Coder || Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimal2023&label=Profile%20views&color=0e75b6&style=flat" alt="vimal2023" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@aanand_2001" target="blank"><img src="https://img.shields.io/twitter/follow/@aanand_2001?logo=twitter&style=for-the-badge" alt="@aanand_2001" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **ReactJs & Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vimal2023](https://github.com/Vimal2023)
 
-- 💬 Ask me about **html, CSS**
+- 💬 Ask me about **html, CSS, Javascript, C, Python**
 
 - 📫 How to reach me **vimal83500@gmail.com**
 
