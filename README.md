@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimal2023" alt="vimal2023" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aanand_2001" target="blank"><img src="https://img.shields.io/twitter/follow/@aanand_2001?logo=twitter&style=for-the-badge" alt="@aanand_2001" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Coder_Shelby_7" target="blank"><img src="https://img.shields.io/twitter/follow/@Coder_Shelby_7?logo=twitter&style=for-the-badge" alt="@Coder_Shelby_7" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs & Java**
+- 🌱 I’m currently learning **Expressjs & DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vimal2023](https://github.com/Vimal2023)
 
-- 💬 Ask me about **html, CSS, Javascript, C, Python**
+- 💬 Ask me about **html, CSS, Javascript, C, Python, c++, Reactjs, Nodejs, MongoDB**
 
-- 📫 How to reach me **vimal83500@gmail.com**
+- 📫 How to reach me **vimal83500@gmail.com & vimalanand0709@gmail.com**
 
 - 📄 Know about my experiences [https://vimal2023.github.io/Aanand_Portfolio.github.io/](https://vimal2023.github.io/Aanand_Portfolio.github.io/)
 
-- ⚡ Fun fact **I am committed**
+- ⚡ Fun fact **I am a memer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
