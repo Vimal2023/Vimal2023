@@ -1,5 +1,6 @@
 <h1 align="center">Namaste🙏Duniya🌏! My Name is Vimal Anand</h1>
-<h3 align="center">| ⚒️ Building something new | 🥷🏿Community Volunteer |🏆 1x Hackathon winner | MERN Developer 👨‍💻</h3>
+<h3 align="center">| ⚒️ Building something new | 🥷🏿Community Volunteer 
+|🏆 2x Hackathon winner | MERN Developer 👨‍💻| Blogger 🕴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimal2023&label=Profile%20views&color=0e75b6&style=flat" alt="vimal2023" /> </p>
 
